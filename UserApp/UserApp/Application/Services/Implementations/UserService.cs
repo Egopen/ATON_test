@@ -3,7 +3,6 @@ using System.Threading.Channels;
 using UserApp.Application.DTO;
 using UserApp.Application.Errors;
 using UserApp.Application.Services.Interfaces;
-using UserApp.Domain.Services.Interfaces;
 using UserApp.Infrastructure.DB.Models;
 using UserApp.Infrastructure.DTO;
 using UserApp.Infrastructure.Services.Interfaces;

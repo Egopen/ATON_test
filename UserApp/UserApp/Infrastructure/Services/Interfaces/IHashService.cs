@@ -1,4 +1,4 @@
-﻿namespace UserApp.Domain.Services.Interfaces
+﻿namespace UserApp.Infrastructure.Services.Interfaces
 {
     public interface IHashService
     {

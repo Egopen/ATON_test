@@ -1760,11 +1760,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FullProject\\UserApp\\UserApp\\UserApp.csproj",
+      "projectUniqueName": "C:\\FullProject\\ATON_test\\UserApp\\UserApp\\UserApp.csproj",
       "projectName": "UserApp",
-      "projectPath": "C:\\FullProject\\UserApp\\UserApp\\UserApp.csproj",
+      "projectPath": "C:\\FullProject\\ATON_test\\UserApp\\UserApp\\UserApp.csproj",
       "packagesPath": "C:\\Users\\Егор\\.nuget\\packages\\",
-      "outputPath": "C:\\FullProject\\UserApp\\UserApp\\obj\\",
+      "outputPath": "C:\\FullProject\\ATON_test\\UserApp\\UserApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

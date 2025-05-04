@@ -1,7 +1,6 @@
 ﻿using UserApp.Application.DTO;
 using UserApp.Application.Errors;
 using UserApp.Application.Services.Interfaces;
-using UserApp.Domain.Services.Interfaces;
 using UserApp.Infrastructure.Services.Interfaces;
 
 namespace UserApp.Application.Services.Implementations
