@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FullProject\\UserApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B80FFC-FD06-4E24-A781-86C7DB3FB724}|UserApp\\UserApp.csproj|c:\\fullproject\\userapp\\userapp\\application\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B80FFC-FD06-4E24-A781-86C7DB3FB724}|UserApp\\UserApp.csproj|solutionrelative:userapp\\application\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B80FFC-FD06-4E24-A781-86C7DB3FB724}|UserApp\\UserApp.csproj|c:\\fullproject\\userapp\\userapp\\ui\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B80FFC-FD06-4E24-A781-86C7DB3FB724}|UserApp\\UserApp.csproj|solutionrelative:userapp\\ui\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B80FFC-FD06-4E24-A781-86C7DB3FB724}|UserApp\\UserApp.csproj|c:\\fullproject\\userapp\\userapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B80FFC-FD06-4E24-A781-86C7DB3FB724}|UserApp\\UserApp.csproj|solutionrelative:userapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B80FFC-FD06-4E24-A781-86C7DB3FB724}|UserApp\\UserApp.csproj|c:\\fullproject\\userapp\\userapp\\ui\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B80FFC-FD06-4E24-A781-86C7DB3FB724}|UserApp\\UserApp.csproj|solutionrelative:userapp\\ui\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B80FFC-FD06-4E24-A781-86C7DB3FB724}|UserApp\\UserApp.csproj|c:\\fullproject\\userapp\\userapp\\ui\\dto\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B80FFC-FD06-4E24-A781-86C7DB3FB724}|UserApp\\UserApp.csproj|solutionrelative:userapp\\ui\\dto\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B80FFC-FD06-4E24-A781-86C7DB3FB724}|UserApp\\UserApp.csproj|c:\\fullproject\\userapp\\userapp\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A4B80FFC-FD06-4E24-A781-86C7DB3FB724}|UserApp\\UserApp.csproj|solutionrelative:userapp\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B80FFC-FD06-4E24-A781-86C7DB3FB724}|UserApp\\UserApp.csproj|c:\\fullproject\\userapp\\userapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4B80FFC-FD06-4E24-A781-86C7DB3FB724}|UserApp\\UserApp.csproj|solutionrelative:userapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B80FFC-FD06-4E24-A781-86C7DB3FB724}|UserApp\\UserApp.csproj|c:\\fullproject\\userapp\\userapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4B80FFC-FD06-4E24-A781-86C7DB3FB724}|UserApp\\UserApp.csproj|solutionrelative:userapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B80FFC-FD06-4E24-A781-86C7DB3FB724}|UserApp\\UserApp.csproj|c:\\fullproject\\userapp\\userapp\\application\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B80FFC-FD06-4E24-A781-86C7DB3FB724}|UserApp\\UserApp.csproj|solutionrelative:userapp\\application\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B80FFC-FD06-4E24-A781-86C7DB3FB724}|UserApp\\UserApp.csproj|c:\\fullproject\\userapp\\userapp\\application\\dto\\getuserdatabyuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B80FFC-FD06-4E24-A781-86C7DB3FB724}|UserApp\\UserApp.csproj|solutionrelative:userapp\\application\\dto\\getuserdatabyuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthDTO.cs",
+              "DocumentMoniker": "C:\\FullProject\\UserApp\\UserApp\\UI\\DTO\\AuthDTO.cs",
+              "RelativeDocumentMoniker": "UserApp\\UI\\DTO\\AuthDTO.cs",
+              "ToolTip": "C:\\FullProject\\UserApp\\UserApp\\UI\\DTO\\AuthDTO.cs",
+              "RelativeToolTip": "UserApp\\UI\\DTO\\AuthDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T09:01:00.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\FullProject\\UserApp\\UserApp\\UI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "UserApp\\UI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\FullProject\\UserApp\\UserApp\\UI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "UserApp\\UI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T09:00:39.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\FullProject\\UserApp\\UserApp\\appsettings.json",
+              "RelativeDocumentMoniker": "UserApp\\appsettings.json",
+              "ToolTip": "C:\\FullProject\\UserApp\\UserApp\\appsettings.json",
+              "RelativeToolTip": "UserApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T08:58:43.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\FullProject\\UserApp\\UserApp\\.env",
+              "RelativeDocumentMoniker": "UserApp\\.env",
+              "ToolTip": "C:\\FullProject\\UserApp\\UserApp\\.env",
+              "RelativeToolTip": "UserApp\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-04T08:58:23.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FullProject\\UserApp\\UserApp\\Program.cs",
+              "RelativeDocumentMoniker": "UserApp\\Program.cs",
+              "ToolTip": "C:\\FullProject\\UserApp\\UserApp\\Program.cs",
+              "RelativeToolTip": "UserApp\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAGkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:58:05.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\FullProject\\UserApp\\UserApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\FullProject\\UserApp\\UserApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T08:58:00.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\FullProject\\UserApp\\UserApp\\UI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserApp\\UI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\FullProject\\UserApp\\UserApp\\UI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserApp\\UI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAHMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:21:55.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\FullProject\\UserApp\\UserApp\\Application\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "UserApp\\Application\\Services\\Implementations\\UserService.cs",
+              "ToolTip": "C:\\FullProject\\UserApp\\UserApp\\Application\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "UserApp\\Application\\Services\\Implementations\\UserService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:41:06.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\FullProject\\UserApp\\UserApp\\Application\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "UserApp\\Application\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\FullProject\\UserApp\\UserApp\\Application\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "UserApp\\Application\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:45:42.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetUserDataByUserDTO.cs",
+              "DocumentMoniker": "C:\\FullProject\\UserApp\\UserApp\\Application\\DTO\\GetUserDataByUserDTO.cs",
+              "RelativeDocumentMoniker": "UserApp\\Application\\DTO\\GetUserDataByUserDTO.cs",
+              "ToolTip": "C:\\FullProject\\UserApp\\UserApp\\Application\\DTO\\GetUserDataByUserDTO.cs",
+              "RelativeToolTip": "UserApp\\Application\\DTO\\GetUserDataByUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:42:09.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

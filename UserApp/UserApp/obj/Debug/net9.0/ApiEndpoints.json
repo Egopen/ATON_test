@@ -1,0 +1,236 @@
+[
+  {
+    "ContainingType": "UserApp.UI.Controllers.AdminController",
+    "Method": "ChangeUserLogin",
+    "RelativePath": "UserApp/Admin/ChangeUserLogin",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "changes",
+        "Type": "UserApp.UI.DTO.ChangeUserLoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserApp.UI.Controllers.AdminController",
+    "Method": "ChangeUserNameGenderBirthday",
+    "RelativePath": "UserApp/Admin/ChangeUserNameGenderBirthday",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "changes",
+        "Type": "UserApp.UI.DTO.ChangeUserByAdminUINGBDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserApp.UI.Controllers.AdminController",
+    "Method": "ChangeUserPassword",
+    "RelativePath": "UserApp/Admin/ChangeUserPassword",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "changes",
+        "Type": "UserApp.UI.DTO.ChangeUserPasswordDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserApp.UI.Controllers.AdminController",
+    "Method": "CreateUser",
+    "RelativePath": "UserApp/Admin/CreateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "UserApp.UI.DTO.CreateUserUIDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserApp.UI.Controllers.AdminController",
+    "Method": "GetAllActiveUsers",
+    "RelativePath": "UserApp/Admin/GetAllActiveUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserApp.UI.Controllers.AdminController",
+    "Method": "GetAllUsersOlderThanData",
+    "RelativePath": "UserApp/Admin/GetAllUsersOlderThanData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "years",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserApp.UI.Controllers.AdminController",
+    "Method": "GetUserById",
+    "RelativePath": "UserApp/Admin/GetUserById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserApp.UI.Controllers.AdminController",
+    "Method": "GetUserByLogin",
+    "RelativePath": "UserApp/Admin/GetUserByLogin",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserApp.UI.Controllers.AdminController",
+    "Method": "RemoveUserSoftlyByLogin",
+    "RelativePath": "UserApp/Admin/RemoveUserSoftlyByLogin",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserApp.UI.Controllers.AdminController",
+    "Method": "RestoreUserByLogin",
+    "RelativePath": "UserApp/Admin/RestoreUserByLogin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserApp.UI.Controllers.AuthController",
+    "Method": "SignIn",
+    "RelativePath": "UserApp/Auth/SignIn",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "UserApp.UI.DTO.AuthDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserApp.UI.Controllers.UserController",
+    "Method": "ChangeUserLogin",
+    "RelativePath": "UserApp/User/ChangeUserLogin",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "changes",
+        "Type": "UserApp.UI.DTO.ChangeUserrLoginByUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserApp.UI.Controllers.UserController",
+    "Method": "ChangeUserNameGenderBirthday",
+    "RelativePath": "UserApp/User/ChangeUserNameGenderBirthday",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "changes",
+        "Type": "UserApp.UI.DTO.ChangeUserNGBUIDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserApp.UI.Controllers.UserController",
+    "Method": "ChangeUserPassword",
+    "RelativePath": "UserApp/User/ChangeUserPassword",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "changes",
+        "Type": "UserApp.UI.DTO.ChangeUserPasswordByUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserApp.UI.Controllers.UserController",
+    "Method": "GetUserData",
+    "RelativePath": "UserApp/User/GetUserData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "UserApp.UI.DTO.GetUserDataDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
